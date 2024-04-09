@@ -1,12 +1,10 @@
 <script>
+  import Layout from "../Layout.svelte";
+  import { basics } from "./../../models/cv.json";
 
-    import Layout from "../Layout.svelte";
-    import {basics} from './../../models/cv.json'
-
-    const {sumary} = basics
+  const { sumary } = basics;
 </script>
 
-
-<Layout title= "Sobre mi">
-    <p class=" text-slate-700 text-justify mt-2">{sumary}</p>
+<Layout title="Sobre mi">
+  <p class=" text-slate-600 text-justify mt-2 text-sm">{sumary}</p>
 </Layout>
