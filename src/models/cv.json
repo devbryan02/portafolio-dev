@@ -1,0 +1,110 @@
+{
+    "basics":{
+        "name": "Brayan",
+        "lastName": "Cardenas Muñoz",
+        "label": "Estudiante de ing. Sistemas de Información",
+        "img": "me.webp",
+        "email": "brayan7br7@gmail.com",
+        "phone": "+51 992 450 988",
+        "sumary": "Estudiante de Ingenieria de Sistemas de Informacion, Actualmente estoy cursando el 6to ciclo de la carrera. Vivo en Ayacucho, Perú. He trabajado en proyectos de mi universidad desde el analisis de requerimientos hasta el desarrollo e implementacion del software.",
+        "location":{
+            "city": "Huamanga",
+            "countryCode": "PE",
+            "region": "Perú"
+        }
+    },
+    "profiles":[
+        {
+            "network": "LinkediIn",
+            "username":"bryanby2002",
+            "url": "https://linkedin.com/in/bryanby2002"
+        },
+        {
+            "network": "GitHUb",
+            "username":"bryanby2002",
+            "url": "https://github.com/bryanby2002"
+        }
+    ],
+
+    "projects":[
+        {
+            "name": "Api-clash-royale-cards",
+            "position": "Desarrollador",
+            "description":"Desarrollé una API RESTful que permite a los usuarios obtener informacion sobre las cartas del juego Clash Royale.",
+            "tecnologys":[
+                {"name": "Java Spring Boot"},
+                {"name": "MySQL Database" },
+                {"name": "Spring Data Jpa"},
+                {"name": "Spring Security"}
+            ],
+            "url": "https://github.com/bryanby2002/api-clash-royale-cards",
+            "startDate": "2024-01-01",
+            "endDate": "Actual"
+        },
+        {
+            "name": "Api-clash-royale-cards",
+            "position": "Desarrollador",
+            "description":"Desarrollé una API RESTful que permite a los usuarios obtener informacion sobre las cartas del juego Clash Royale.",
+            "tecnologys":[
+                {"name": "Java Spring Boot"},
+                {"name": "MySQL Database" },
+                {"name": "Thymeleaf"},
+                {"name": "Html y Bootstrap"}
+            ],
+            "url": "https://github.com/bryanby2002/api-clash-royale-cards",
+            "startDate": "2024-01-01",
+            "endDate": "Actual"
+        }
+    ],
+
+    "education":{
+        "instition": "Escuela Superior la Pontificia",
+        "area": "Ingenieria de Sistemas",
+        "startDate": "2022-03-01",
+        "endDate": "Presente",
+        "url": "https://www.elp.edu.pe/ingenier%C3%ADa-de-sistemas-de-informacion"
+    },
+
+    "skills":[
+        {
+            "name": "Java",
+            "leve": "Intermedio",
+            "keywords":["Desarrollo de software", "POO"]
+        },
+        {
+            "name": "Spring framework",
+            "leve": "Intermedio",
+            "keywords":["Desarrollo de software", "Api RESTful"]
+        },
+        {
+            "name": "MySQL",
+            "leve": "Intermedio",
+            "keywords":["Base de datos","Almancenamiento de datos", "SQL", "Backend"]
+        },
+        {
+            "name": "HTML",
+            "leve": "Avanzado",
+            "keywords":["Desarrollo web", "frontend"]
+        },
+        {
+            "name": "CSS",
+            "leve": "Intermedio",
+            "keywords":["Desarrollo web", "Diseño responsive"]
+        },
+        {
+            "name": "TailwindCSS",
+            "leve": "Intermedio",
+            "keywords":["Desarrollo web", "Framework", "Diseño responsive"]
+        },
+        {
+            "name": "Git",
+            "leve": "Intermedio",
+            "keywords":["Control de versiones", "Colaboracipn", "Codigo fuente"]
+        },
+        {
+            "name": "GitHub",
+            "leve": "Intermedio",
+            "keywords":["Control de versiones", "Colaboracipn", "Codigo fuente","Git"]
+        }
+    ]
+}
