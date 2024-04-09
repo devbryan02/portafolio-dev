@@ -4,7 +4,7 @@
     import { basics } from "./../../models/cv.json";
     import GithubIcon from "./../icons/GitHub.svelte";
     import LinkedinIcon from "./../icons/LInkedin.svelte";
-    import Email from "../icons/Email.svelte";
+    import EmailIcon from "../icons/Email.svelte";
 
     const { label, name, lastName, location, phone, email, img } = basics;
     const { city, countryCode, region } = location;
@@ -44,7 +44,7 @@
                     target="_blank"
                     class="p-2 border rounded hover:bg-slate-200"
                 >
-                    <Email />
+                    <EmailIcon/>
                 </a>
             </div>
         </div>
