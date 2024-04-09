@@ -2,7 +2,7 @@
     export let title ;
 </script>
 
-<section class="w-[60%] mx-auto mt-3">
+<section class="w-[50%] mx-auto mt-3">
     <header>
         <h2 class="text-slate-800 text-2xl font-bold">{title}</h2>
     </header>

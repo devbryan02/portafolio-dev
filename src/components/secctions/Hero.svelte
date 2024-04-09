@@ -11,7 +11,7 @@
 </script>
 
 <Layout title="">
-    <div class="flex flex-col md:flex-row justify-between mt-5">
+    <div class="flex flex-col md:flex-row justify-between mt-5 items-center">
         <div class="flex flex-col gap-2">
             <h2 class="text-4xl font-sans font-bold text-slate-800">
                 {name}
@@ -53,7 +53,7 @@
                 src={img}
                 alt="Img Not found"
                 title="{name}Dev fachero detectado"
-                width="150px"
+                width="100px"
                 class="rounded-lg shadow-lg"
             />
         </div>
