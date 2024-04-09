@@ -1,7 +1,12 @@
 <script>
+	import GitHub from './../icons/GitHub.svelte';
 
     import Layout from "./../Layout.svelte";
     import { basics } from "./../../models/cv.json";
+    import GithubIcon from './../icons/GitHub.svelte'
+    import LinkedinIcon from './../icons/LInkedin.svelte'
+
+
     const { label, name, lastName, location, phone, email, img } = basics;
     const { city, countryCode, region } = location;
 
@@ -29,8 +34,9 @@
                     {email}
                 </a>
             </div>
-            <div>
-                <i class="bi alarm">alarm</i>
+            <div class="flex text-slate-600">
+                <GithubIcon/>
+                <LinkedinIcon/>
             </div>
         </div>
         <div>
