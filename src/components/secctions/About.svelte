@@ -8,5 +8,5 @@
 
 
 <Layout title= "Sobre mi">
-    <p class="text-sm text-slate-700 text-justify mt-2">{sumary}</p>
+    <p class=" text-slate-700 text-justify mt-2">{sumary}</p>
 </Layout>

@@ -6,18 +6,19 @@
     import LinkedinIcon from "./../icons/LInkedin.svelte";
     import EmailIcon from "../icons/Email.svelte";
 
-    const { label, name, lastName, location, phone, email, img } = basics;
+    const { label, name, lastName, location, phone, img } = basics;
     const { city, countryCode, region } = location;
+    
 </script>
 
 <Layout title="">
     <div class="flex flex-col md:flex-row justify-between mt-5 items-center">
         <div class="flex flex-col gap-2">
-            <h2 class="text-4xl font-sans font-bold text-slate-800">
+            <h2 class="text-5xl font-sans text-slate-800">
                 {name}
                 {lastName}
             </h2>
-            <p class="text-slate-700 font-bold">{label}</p>
+            <p class="text-slate-700 font-semibold">{label}</p>
             <div class="flex gap-2 mt-1">
                 <p class="text-sm text-slate-600">
                     {city}, {region}, {countryCode} |
