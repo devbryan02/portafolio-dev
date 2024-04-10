@@ -1,6 +1,6 @@
 <script>
     import { basics } from "./../../models/cv.json";
-    const { email } = basics;
+    const { email, } = basics;
   </script>
 
 <svg
