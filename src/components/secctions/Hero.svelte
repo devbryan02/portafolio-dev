@@ -32,7 +32,7 @@
           <GithubIcon />
         </a>
         <a
-          href="https://www.linkedin.com/in/bryanby2002/"
+          href="https://www.linkedin.com/in/devbryan02/"
           target="_blank"
           class="p-2 border rounded hover:bg-gray-200"
         >
