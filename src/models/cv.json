@@ -13,18 +13,6 @@
       "region": "Perú"
     }
   },
-  "profiles": [
-    {
-      "network": "LinkediIn",
-      "username": "bryanby2002",
-      "url": "https://linkedin.com/in/bryanby2002"
-    },
-    {
-      "network": "GitHUb",
-      "username": "bryanby2002",
-      "url": "https://github.com/bryanby2002"
-    }
-  ],
   "projects": [
     {
       "name": "Api-clash-royale-cards",
@@ -55,7 +43,7 @@
     {
       "name": "Spring-project-event",
       "position": "Desarrollador",
-      "description": "Desarrolle una web que permite la gestión de eventos, incluyendo registro de usuarios, creación de eventos y gestión de asistentes.",
+      "description": "Desarrollé una web que permite la gestión de eventos, incluyendo registro de usuarios, creación de eventos y gestión de asistentes.",
       "tecnologys": [
         {
           "name": "Java Spring Boot",
@@ -89,53 +77,43 @@
   "skills": [
     {
       "name": "Java",
-      "leve": "Intermedio",
-      "keywords": ["Desarrollo de software", "POO"]
+      "level": "Intermedio",
+      "keyword": "Backend"
     },
     {
       "name": "Spring framework",
-      "leve": "Intermedio",
-      "keywords": ["Desarrollo de software", "Api RESTful"]
+      "level": "Intermedio",
+      "keyword": "Framework Java"
     },
     {
       "name": "MySQL",
-      "leve": "Intermedio",
-      "keywords": [
-        "Base de datos",
-        "Almancenamiento de datos",
-        "SQL",
-        "Backend"
-      ]
+      "level": "Intermedio",
+      "keyword": "Base de datos"
     },
     {
       "name": "HTML",
-      "leve": "Avanzado",
-      "keywords": ["Desarrollo web", "frontend"]
+      "level": "Avanzado",
+      "keyword": "Desarrollo web"
     },
     {
       "name": "CSS",
-      "leve": "Intermedio",
-      "keywords": ["Desarrollo web", "Diseño responsive"]
+      "level": "Intermedio",
+      "keyword":"Hola de estilos"
     },
     {
       "name": "TailwindCSS",
-      "leve": "Intermedio",
-      "keywords": ["Desarrollo web", "Framework", "Diseño responsive"]
+      "level": "Intermedio",
+      "keyword": "Framework CSS"
     },
     {
       "name": "Git",
-      "leve": "Intermedio",
-      "keywords": ["Control de versiones", "Colaboracipn", "Codigo fuente"]
+      "level": "Intermedio",
+      "keyword":"Control de versiones"
     },
     {
       "name": "GitHub",
-      "leve": "Intermedio",
-      "keywords": [
-        "Control de versiones",
-        "Colaboracipn",
-        "Codigo fuente",
-        "Git"
-      ]
+      "level": "Intermedio",
+      "keyword": "Colaboración"
     }
   ]
 }

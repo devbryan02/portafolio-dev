@@ -23,7 +23,7 @@
           <div class="flex flex-col md:flex-row gap-2 flex-wrap">
             {#each project.tecnologys as tecnology}
               <a
-                class="text-sm text-slate-700 px-3 p-1 border rounded-lg hover:bg-gray-200 text-center md:text-start"
+                class="text-sm text-slate-700 px-3 p-1 border border-dashed rounded-lg hover:bg-gray-200 text-center md:text-start"
                 href={tecnology.url}
                 target="_blank"
                 title="visitar {tecnology.url}"> {tecnology.name}</a
