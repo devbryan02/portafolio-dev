@@ -25,7 +25,7 @@
       </div>
       <div class="flex justify-center md:justify-start  text-slate-600 gap-1">
         <a
-          href="https://github.com/bryanby2002?tab=repositories"
+          href="https://https://github.com/devbryan02?tab=repositories"
           target="_blank"
           class="p-2 border rounded hover:bg-gray-200"
         >
