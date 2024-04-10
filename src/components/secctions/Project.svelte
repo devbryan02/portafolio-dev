@@ -20,10 +20,10 @@
         <p class="text-sm text-slate-600 text-justify">{project.description}</p>
         <div class="flex flex-col gap-2">
           <p class="text-slate-800 font-bold text-sm mt-2">Tecnologias:</p>
-          <div class="flex gap-2">
+          <div class="flex flex-col md:flex-row gap-2 flex-wrap">
             {#each project.tecnologys as tecnology}
               <a
-                class="text-sm text-slate-700 px-3 p-1 border rounded-lg hover:bg-gray-200"
+                class="text-sm text-slate-700 px-3 p-1 border rounded-lg hover:bg-gray-200 text-center md:text-start"
                 href={tecnology.url}
                 target="_blank"
                 title="visitar {tecnology.url}"> {tecnology.name}</a
