@@ -3,6 +3,7 @@
   import About from "./components/secctions/About.svelte";
   import Project from "./components/secctions/Project.svelte";
   import Education from "./components/secctions/Education.svelte";
+  import Skil from "./components/secctions/Skil.svelte";
 </script>
 
 <main>
@@ -10,4 +11,5 @@
   <About />
   <Project />
   <Education/>
+  <Skil/>
 </main>

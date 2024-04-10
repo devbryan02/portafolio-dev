@@ -27,21 +27,21 @@
         <a
           href="https://github.com/bryanby2002?tab=repositories"
           target="_blank"
-          class="p-2 border rounded hover:bg-slate-200"
+          class="p-2 border rounded hover:bg-gray-200"
         >
           <GithubIcon />
         </a>
         <a
           href="https://www.linkedin.com/in/bryanby2002/"
           target="_blank"
-          class="p-2 border rounded hover:bg-slate-200"
+          class="p-2 border rounded hover:bg-gray-200"
         >
           <LinkedinIcon />
         </a>
         <a
           href="mailto:brayan7br7@gmail.com"
           target="_blank"
-          class="p-2 border rounded hover:bg-slate-200"
+          class="p-2 border rounded hover:bg-gray-200"
         >
           <EmailIcon />
         </a>

@@ -23,7 +23,7 @@
           <div class="flex gap-2">
             {#each project.tecnologys as tecnology}
               <a
-                class="text-sm text-slate-700 px-3 p-1 border rounded-lg hover:bg-slate-100"
+                class="text-sm text-slate-700 px-3 p-1 border rounded-lg hover:bg-gray-200"
                 href={tecnology.url}
                 target="_blank"
                 title="visitar {tecnology.url}"> {tecnology.name}</a
