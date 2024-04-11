@@ -1,5 +1,5 @@
 <script>
-  const url = "https://github.com/bryanby2002?tab=repositories"
+  const url = "https://github.com/devbryan02?tab=repositories"
 </script>
 
 <svg
