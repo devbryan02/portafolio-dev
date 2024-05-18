@@ -6,5 +6,5 @@
 </script>
 
 <Layout title="Sobre mi">
-  <p class=" text-slate-600 text-justify mt-2 text-sm">{sumary}</p>
+  <p class=" dark:text-[#DFDFD6] text-slate-600 text-start mt-2 text-sm">{sumary}</p>
 </Layout>

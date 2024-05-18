@@ -1,11 +1,31 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Mi portalio</title>
   </head>
-  <body class="bg-gray-50">
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap");
+
+    :root {
+      color-scheme: light dark;
+    }
+
+    body{
+      font-family: "Quicksand", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+    }
+
+  </style>
+
+  <body class="relative h-full w-full">
+    <div
+      class="absolute top-0 z-[-2] h-full w-full bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"
+    ></div>
+
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
   </body>

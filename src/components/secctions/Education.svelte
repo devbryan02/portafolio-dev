@@ -11,10 +11,10 @@
       href={url}
       target="_blank"
       title="Vistar {url}"
-      class="text-sm text-slate-700 font-bold hover:underline">
+      class="text-sm dark:text-[#DFDFD6] text-slate-700 font-bold hover:underline">
       {instition}
     </a>
-    <p class="text-sm text-slate-500">{startDate} - {endDate}</p>
+    <p class="text-sm dark:text-[#DFDFD6] text-slate-500">{startDate} - {endDate}</p>
   </div>
-  <p class="text-sm text-slate-600">{area}</p>
+  <p class="text-sm dark:text-[#DFDFD6] text-slate-600">{area}</p>
 </Layout>
