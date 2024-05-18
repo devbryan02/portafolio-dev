@@ -1,5 +1,6 @@
-![Diseño](/public/banner.png)
+# Portafolio minimal editable en Json
 
+![Diseño](/public/banner.png)
 
 ## Instalación
 
