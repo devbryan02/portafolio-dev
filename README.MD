@@ -9,4 +9,4 @@
 4. Inicia el servidor de desarrollo con `npm run dev`.
 5. Abre `http://localhost:5000` en tu navegador para ver el portafolio en acción.
 
-Creditos a Midudev: [https://github.com/midudev](https://github.com/midudev)
+Creditos a Midudev: [https://github.com/midudev/minimalist-portfolio-json](https://github.com/midudev/minimalist-portfolio-json)
